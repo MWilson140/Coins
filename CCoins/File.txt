@@ -1,0 +1,10 @@
+Sue 50 cents in US$
+Sue 15 cents in EUR
+Frank 20 cents in AU$
+Sam 10 cents in AU$
+Ted 95 cents in US$
+Mary 55 cents in AU$
+Frank 11 cents in EUR
+Sue 64 cents in EUR
+Mary 14 cents in EUR
+Ted 55 cents in US$

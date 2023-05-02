@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1678169797 source:c:\users\61435\desktop\c++\coinsnew\coinsnew\coinsnew.c
+	"CoinsNew.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1678168944 c:\users\61435\desktop\c++\coinsnew\coinsnew\coinsnew.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1678169805 source:c:\users\61435\desktop\c++\coinsnew\coinsnew\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"CoinsNew.h"
+
+1678169805 source:e:\sem3\ict283 programming\c++\coinsnew\coinsnew\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"CoinsNew.h"
+
+1678169920 e:\sem3\ict283 programming\c++\coinsnew\coinsnew\coinsnew.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1678169805 source:f:\sem3\ict283 programming\c++\coinsnew\coinsnew\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"CoinsNew.h"
+
+1678545063 f:\sem3\ict283 programming\c++\coinsnew\coinsnew\coinsnew.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1678422378 source:f:\sem3\ict283 programming\c++\coinsnew\coinsnew\coinsnew.c
+	"CoinsNew.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
